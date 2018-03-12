@@ -1,0 +1,7 @@
+veronnel tresselation
+1) Mean IOU(intersection over union) 
+find multiple accuracies and then merge them to give out result
+FI-score(confusion matrix)
+precision recall
+3)makke new distance funtions and plot graph for diffeerent vlues of k
+4)find for different larger dataset
